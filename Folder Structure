@@ -1,0 +1,15 @@
+frbot/
+├── index.js
+├── config.js
+├── package.json
+├── commands/
+│   ├── all.js
+│   ├── kick.js
+│   ├── song.js
+│   └── menu.js
+├── events/
+│   ├── welcome.js
+│   ├── leave.js
+│   └── antiBot.js
+├── media/
+└── README.md
